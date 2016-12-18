@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\enter_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\enter_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\melbourne_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\melbourne_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\itinerantone_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\itinerantone_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\canberra_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\canberra_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\po_seekbar.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\po_seekbar.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\b_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\b_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\c_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\c_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\itineranttwo_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\itineranttwo_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\adelaide_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\adelaide_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\styles.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\styles.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\main_enter_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\main_enter_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\radionational_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\radionational_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\doublej_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\doublej_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\brisbane_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\brisbane_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\country_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\country_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\tripplej_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\tripplej_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\sydney_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\sydney_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\quit.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\quit.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\extra_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\extra_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\main_cancel_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\main_cancel_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\grandstand_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\grandstand_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\nationalnews_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\nationalnews_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\listrecordimg_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\listrecordimg_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\a_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\a_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\cancel_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\cancel_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\perth_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\perth_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\unearthed_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\unearthed_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\classictwo_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\classictwo_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\itinerantthree_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\itinerantthree_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\returnbtn_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\returnbtn_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\deletebtn_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\deletebtn_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\classic_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\classic_selector.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\xml\\abcjazz_selector.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\xml\\abcjazz_selector.xml"
+    }
+]

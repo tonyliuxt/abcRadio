@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+      package="com.baby.play.abc"
+      android:versionCode="236"
+      android:versionName="2.3.6">
+      
+    <uses-permission android:name="android.permission.INTERNET"/> 
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" /> 
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/> 
+    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW"/>
+    <uses-permission android:name="android.permission.GET_TASKS"/>
+    <uses-sdk android:minSdkVersion="7" android:targetSdkVersion="23" />
+    
+    <application android:theme="@android:style/Theme.NoTitleBar" android:icon="@drawable/icon" android:label="@string/app_name" android:allowBackup="false">
+        <activity android:name="io.vov.vitamio.activity.InitActivity"
+            android:launchMode="singleTop"
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:windowSoftInputMode="stateAlwaysHidden">
+        </activity>        
+        <activity android:name="com.baby.play.abc.MainUi" 
+            	  android:label="@string/app_name"
+                  android:windowSoftInputMode="adjustPan"
+                  android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+		<activity android:name="com.baby.play.abc.ConfirmActivity"
+		    android:exported="false"
+			android:launchMode="standard" 
+			android:theme="@style/Theme.Translucent"
+			android:screenOrientation="portrait" />
+		<activity android:name="com.baby.play.abc.CustomeActivity"
+		    android:exported="false"
+			android:launchMode="standard" 
+			android:theme="@style/Theme.Translucent"
+			android:screenOrientation="portrait" />        
+        <service android:name="com.baby.play.abc.PlayService"></service>
+
+    </application>
+
+</manifest> 

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="yweathergetter4a">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/yweathergetter4a.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

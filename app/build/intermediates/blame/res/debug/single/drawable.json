@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_progress_horizontal_holo_dark.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\drawable\\scrubber_progress_horizontal_holo_dark.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mediacontroller_button.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\drawable\\mediacontroller_button.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\loading.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\drawable\\loading.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_right.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\drawable\\slide_right.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\openning.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\drawable\\openning.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\scrubber_control_selector_holo.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\drawable\\scrubber_control_selector_holo.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\slide_left.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\drawable\\slide_left.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\playing.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\drawable\\playing.xml"
+    }
+]

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:id="@+id/RelativeLayout_Item1"
+	android:background="@drawable/exitbakgroud"
+	android:layout_width="fill_parent"
+	android:layout_height="fill_parent">
+	
+	<RelativeLayout android:id="@+id/RelativeLayout_Item"
+		android:background="@drawable/talk_bg"
+		android:layout_centerInParent="true"
+		android:layout_width="300dp" 
+		android:layout_height="280dp">
+        <TextView
+                android:id="@+id/radiotitle"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/c_title"
+                android:textSize="18sp"
+				android:textColor="#ffff00" 
+				android:paddingTop="12dip"
+				android:paddingLeft="10dip"
+				android:layout_centerHorizontal="true"
+				android:layout_alignParentTop="true">
+		</TextView>
+	    <TextView
+                android:id="@+id/radionamelable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/c_name"
+                android:textSize="15sp"
+				android:textColor="#ffffff" 
+				android:paddingLeft="10dip"
+				android:layout_below="@+id/radiotitle">
+		</TextView>
+		<EditText android:id="@+id/radioname"
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+				android:layout_marginRight="10dip" 
+				android:layout_marginLeft="10dip"
+				android:textSize="14sp"
+				android:maxLength="20"
+				android:paddingLeft="10dip"
+				android:inputType="textUri"
+				android:background="@drawable/textbox_nor"
+				android:layout_below="@+id/radionamelable">
+		</EditText>
+        <TextView
+                android:id="@+id/radiourllable"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/c_uri"
+                android:textSize="15sp"
+				android:textColor="#ffffff" 
+				android:paddingLeft="10dip"
+				android:layout_below="@+id/radioname">
+		</TextView>
+		<EditText android:id="@+id/radiourl"
+                android:layout_width="fill_parent"
+                android:layout_height="80dp"
+				android:layout_marginRight="10dip" 
+				android:layout_marginLeft="10dip"
+				android:textSize="14sp" 
+				android:maxLength="512"
+				android:paddingTop="3dip"
+				android:paddingLeft="10dip"
+				android:inputType="textMultiLine"
+				android:gravity="center_vertical"
+				android:singleLine="false"
+				android:scrollHorizontally="false"
+				android:background="@drawable/textbox_nor"
+				android:layout_below="@+id/radiourllable">
+		</EditText>
+        						
+		<ImageView android:id="@+id/main_enter_image"
+			android:src="@xml/enter_selector"
+			android:layout_alignParentBottom="true"
+			android:layout_alignParentLeft="true"
+			android:layout_width="wrap_content" 
+			android:layout_marginLeft="20dp"
+			android:paddingBottom="20dp"
+			android:layout_height="wrap_content"
+			android:contentDescription="@string/app_name">
+		</ImageView>
+		<ImageView android:id="@+id/main_cancel_image"
+			android:src="@xml/cancel_selector"
+			android:layout_alignParentBottom="true"
+			android:layout_alignParentRight="true"
+			android:layout_width="wrap_content" 
+			android:layout_marginRight="20dp"
+			android:paddingBottom="20dp"
+			android:layout_height="wrap_content"
+			android:contentDescription="@string/app_name">
+		</ImageView>
+	</RelativeLayout>
+
+</RelativeLayout>

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="initactivity">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/libs/initactivity.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

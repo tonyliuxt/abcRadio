@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\layout\\forecast_info.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\layout\\forecast_info.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\layout\\mediacontroller.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\layout\\mediacontroller.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\layout\\grid_item.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\layout\\grid_item.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\layout\\quit_dialog.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\layout\\quit_dialog.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\layout\\ieltsls_ui.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\layout\\ieltsls_ui.xml"
+    },
+    {
+        "merged": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\build\\intermediates\\res\\merged\\release\\layout\\custome_dialog.xml",
+        "source": "F:\\Tony\\Android\\AndroidStudioProjects\\abc\\app\\src\\main\\res\\layout\\custome_dialog.xml"
+    }
+]

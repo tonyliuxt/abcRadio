@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="F:\Tony\Android\AndroidStudioProjects\abc\app\libs\initactivity.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="06290f427326a6322a98f90339fe5c7fea8f9459">
+        <dex dex="F:\Tony\Android\AndroidStudioProjects\abc\app\build\intermediates\pre-dexed\debug\initactivity_dcf754a615a063e32ef384e3b50fda3700600ce4.jar" />
+    </item>
+    <item
+        jar="F:\Tony\Android\AndroidStudioProjects\abc\app\libs\yweathergetter4a.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="46934a0561de2858b4cb1dce50981cffdac3f93a">
+        <dex dex="F:\Tony\Android\AndroidStudioProjects\abc\app\build\intermediates\pre-dexed\debug\yweathergetter4a_abfbca4b49736bda740f3e127290d669f7b6ed23.jar" />
+    </item>
+    <item
+        jar="F:\Tony\Android\AndroidStudioProjects\abc\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="F:\Tony\Android\AndroidStudioProjects\abc\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-20.0.0_6db2b79bfbe56bbdfa1e614b0eb187bcfda5ee07.jar" />
+    </item>
+    <item
+        jar="C:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="F:\Tony\Android\AndroidStudioProjects\abc\app\build\intermediates\pre-dexed\debug\support-annotations-20.0.0_9ade5ec4e43d9f0dedde29f0e205b2f48594e1c0.jar" />
+    </item>
+    <item
+        jar="F:\Tony\Android\AndroidStudioProjects\abc\app\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\jars\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="F:\Tony\Android\AndroidStudioProjects\abc\app\build\intermediates\pre-dexed\debug\internal_impl-20.0.0_69e85413f91b9c9ed65008c37855b087d2595d88.jar" />
+    </item>
+
+</items>
